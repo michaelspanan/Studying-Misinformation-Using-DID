@@ -1,6 +1,6 @@
 # Studying-Misinformation-Using-DID
 
-# Misinformation and Deplatforming on Twitter: An Exploration and Replication
+## Misinformation and Deplatforming on Twitter: An Exploration and Replication
 
 This repository contains code and analysis adapted from a coursework project that engages with the findings of the 2024 *Nature* publication:**"Post-January 6th deplatforming reduced the reach of misinformation on Twitter"** by McCabe et al.
 
