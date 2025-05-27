@@ -37,5 +37,5 @@ The paper investigates Twitter’s decision to deplatform 70,000 misinformation-
    ```bash
    pip install pandas numpy matplotlib seaborn statsmodels
 
-## 🔗 Reference:
+## 🔗 Reference
 McCabe, S. D., Ferrari, D., Green, J., Lazer, D. M. J., & Esterling, K. M. (2024). Post-January 6th deplatforming reduced the reach of misinformation on Twitter. Nature. https://doi.org/10.1038/s41586-024-07524-8
